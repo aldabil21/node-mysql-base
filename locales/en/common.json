@@ -1,0 +1,20 @@
+{
+  "neto": "Net",
+  "brutto": "Total",
+  "flat_rate": "Flat Shipping Rate",
+  "weight_rate": "Shipping Rate ({{weight}} KG)",
+  "free_shipping": "Free Shipping",
+  "not_found": "Resource {{id}} Not Found...",
+  "add_error": "Uncommon Error: Contact Your Administrator.",
+  "discount": "Discount",
+  "use_coupon": "coupon",
+  "sar": "SAR",
+  "somthing_went_wrong": "Somthing went wrong!",
+  "fail_to_authenticate": "Authenticate Fail. Please sign in again.",
+  "signin_credintials_incorrect": "Invalid Credintials",
+  "account_disabled": "Account is disabled",
+  "validation_error": "Please review fields in red color",
+  "admin_data_exists": "These Admin data been used before: {{email}} {{mobile}}",
+  "already_requested_reset": "You can repeat your request after: {{remaining}}",
+  "reset_url_err_expired": "Error validating identity or perhaps the link has expired"
+}

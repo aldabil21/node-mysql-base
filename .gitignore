@@ -1,0 +1,6 @@
+node_modules
+TODO.todo
+nodemon.json
+nodemon.json.local
+nodemon.json.prod
+ecosystem.config.js
